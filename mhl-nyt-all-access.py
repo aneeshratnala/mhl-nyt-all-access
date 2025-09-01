@@ -10,7 +10,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # details
 
-LIB_CARD_NUM = "21213232424244" # dummy number
+LIB_CARD_NUM = "21330001217930" # dummy number
 EMAIL = "aneeshratnala@ucla.edu"
 PW = "Ucla2024!" # dummy pw
 LIB_URL = "https://mhl.org/connect/20528"
